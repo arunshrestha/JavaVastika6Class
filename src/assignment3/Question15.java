@@ -11,7 +11,7 @@ public class Question15 {
 		
 		if (a>=0 && a <=128) {
 			char c = (char) a;
-			System.out.print(a); 
+			System.out.print(c); 
 		} else {
 			System.out.println("enter valid num");
 		}

@@ -1,10 +1,10 @@
-package assignment5;
+package assignment6;
 
-public class Question32 {
+public class Question42 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+
 	}
 
 }
